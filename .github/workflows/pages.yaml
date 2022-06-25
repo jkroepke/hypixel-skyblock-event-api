@@ -25,7 +25,7 @@ jobs:
       - run: mkdir public
 
       - name: Copy
-        run: cp -a web/* data/* public/
+        run: cp -a web/* public/ && cp -a data public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
