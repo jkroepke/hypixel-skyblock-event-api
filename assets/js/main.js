@@ -59,7 +59,7 @@ async function loadData() {
                 })
                 .map(year => {
                     return fetch(
-                        `/data/${year}.json`
+                        `data/${year}.json`
                     ).then((res) => res.json())
                 })
 
