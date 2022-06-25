@@ -1,0 +1,65 @@
+button[type=button] {
+    margin: .2em;
+}
+
+#item_list {
+    border-radius: 5px;
+    padding: .2em;
+}
+
+.crop-img {
+    width: 32px;
+}
+
+.contest {
+    margin: 1em;
+    border-radius: 5px;
+}
+
+.contest > h6, .contest > div.crops {
+    padding-top: 1em;
+}
+
+.contest.bg-success,.contest.bg-danger {
+    color: white;
+}
+
+.contest.bg-warning {
+    color: black;
+}
+
+.crop-item {
+    cursor: pointer;
+}
+
+body>div:first-child {
+    min-height: calc(100vh - 96px);
+}
+
+#header {
+    position: sticky;
+    top: 0;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.fa, .fab {
+    font-size: 32px;
+    margin: .5em;
+}
+
+#footer>h6 {
+    padding-top: 5px;
+}
+
+#contest_list>h6{
+    line-height: 10em;
+}
+
+@media screen and (max-width: 740px){
+    body {
+        font-size: 10vh;
+    }
+}
