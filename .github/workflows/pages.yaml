@@ -23,7 +23,7 @@ jobs:
         run: ./scripts/gen-data-index.sh
 
       - name: Copy
-        run: mv web/* data/* public/
+        run: cp -a web/* data/* public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
