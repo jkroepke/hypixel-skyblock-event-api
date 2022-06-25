@@ -49,7 +49,7 @@ function appendContestTime(parent, datetime) {
 
 async function loadData() {
     try {
-        const response = await fetch('./data/index.json')
+        const response = await fetch('data/index.json')
         if (response.status === 200) {
             const years = await response.json()
 
@@ -145,7 +145,7 @@ function updateContestsCount() {
 
         document
             .querySelector('.crop-item:last-child')
-            .addEventListener('click', event => {
+            .addEventListener('click', () => {
                 loadContests([crop]);
                 document.querySelectorAll('.btn.btn-primary[data-crop]').forEach(el => {
                     el.classList.add('btn-info')
@@ -199,7 +199,7 @@ function updateContestsCount() {
     document
         .querySelectorAll('.btn[data-crop]')
         .forEach(element => {
-            element.addEventListener('click', event => {
+            element.addEventListener('click', () => {
                 // https://dommagnifi.co/2016-05-16-basic-class-toggle-with-vanilla-js/
                 element.classList.toggle('btn-info');
                 element.classList.toggle('btn-primary');
