@@ -22,6 +22,8 @@ jobs:
       - name: Build
         run: ./scripts/gen-data-index.sh
 
+      - run: mkdir public
+
       - name: Copy
         run: cp -a web/* data/* public/
 
