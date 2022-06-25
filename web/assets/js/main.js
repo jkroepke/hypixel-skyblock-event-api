@@ -72,7 +72,7 @@ async function loadData() {
           return years[year].to >= Date.now();
         })
         .map((year) => {
-          return fetch(`data/${year}.json`).then((res) => res.json());
+          return fetch(years[year].url).then((res) => res.json());
         });
 
       return Object.assign({}, ...(await Promise.all(requestYears)));
