@@ -19,49 +19,47 @@
 </head>
 
 <body>
+    <div class="container">
+        <div id="header" class="bg-white">
+            <div class="text-center">
+                <h1>Jacob's Farming Events</h1>
+                <h5>The list of upcoming farming contests</h5>
+            </div>
 
-<div class="container">
-    <div id="header" class="bg-white">
-        <div class="text-center">
-            <h1>Jacob's Farming Events</h1>
-            <h5>The list of upcoming farming contests</h5>
+            <div id="item_list" class="bg-light justify-content-center text-center">
+                <button class="btn btn-info" type="button" data-crop="Cactus">Cactus</button>
+                <button class="btn btn-info" type="button" data-crop="Carrot">Carrot</button>
+                <button class="btn btn-info" type="button" data-crop="Cocoa Beans">Cocoa beans</button>
+                <button class="btn btn-info" type="button" data-crop="Melon">Melon</button>
+                <button class="btn btn-info" type="button" data-crop="Mushroom">Mushroom</button>
+                <button class="btn btn-info" type="button" data-crop="Nether Wart">Nether wart</button>
+                <button class="btn btn-info" type="button" data-crop="Potato">Potato</button>
+                <button class="btn btn-info" type="button" data-crop="Pumpkin">Pumpkin</button>
+                <button class="btn btn-info" type="button" data-crop="Sugar Cane">Sugar cane</button>
+                <button class="btn btn-info" type="button" data-crop="Wheat">Wheat</button>
+            </div>
         </div>
 
-        <div id="item_list" class="bg-light justify-content-center text-center">
-            <button class="btn btn-info" type="button" data-crop="Cactus">Cactus</button>
-            <button class="btn btn-info" type="button" data-crop="Carrot">Carrot</button>
-            <button class="btn btn-info" type="button" data-crop="Cocoa Beans">Cocoa beans</button>
-            <button class="btn btn-info" type="button" data-crop="Melon">Melon</button>
-            <button class="btn btn-info" type="button" data-crop="Mushroom">Mushroom</button>
-            <button class="btn btn-info" type="button" data-crop="Nether Wart">Nether wart</button>
-            <button class="btn btn-info" type="button" data-crop="Potato">Potato</button>
-            <button class="btn btn-info" type="button" data-crop="Pumpkin">Pumpkin</button>
-            <button class="btn btn-info" type="button" data-crop="Sugar Cane">Sugar cane</button>
-            <button class="btn btn-info" type="button" data-crop="Wheat">Wheat</button>
+        <div id="contest_list"></div>
+    </div>
+    
+    <div id="footer" class="bg-light text-center">
+        <h6>About</h6>
+        <div class="justify-content-center">
+            <a href="https://github.com/jkroepke" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/jkroepke/" target="_blank"><i class="fab fa-linkedin"></i></a>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.3/moment.min.js" integrity="sha512-dGM81hdEjiW5IomkknOx3fIfwij3c7xwh6TcrbumlkHJtO81OKNjLISJaPEhCgVxM6+0uGJ7KRmI2YJFn0AmHQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="assets/js/main.js" type="text/javascript"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DD8PT0DMBN"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-    <div id="contest_list"></div>
-
-</div>
-
-<div id="footer" class="bg-light text-center">
-    <h6>About</h6>
-    <div class="justify-content-center">
-        <a href="https://github.com/jkroepke" target="_blank"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/jkroepke/" target="_blank"><i class="fab fa-linkedin"></i></a>
-    </div>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.3/moment.min.js" integrity="sha512-dGM81hdEjiW5IomkknOx3fIfwij3c7xwh6TcrbumlkHJtO81OKNjLISJaPEhCgVxM6+0uGJ7KRmI2YJFn0AmHQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="assets/js/main.js" type="text/javascript"></script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DD8PT0DMBN"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-DD8PT0DMBN');
-</script>
+        gtag('config', 'G-DD8PT0DMBN');
+    </script>
 </body>
 </html>
