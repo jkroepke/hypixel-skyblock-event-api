@@ -1,0 +1,622 @@
+{
+  "1667225700000": [
+    "Melon",
+    "Potato",
+    "Sugar Cane"
+  ],
+  "1667229300000": [
+    "Melon",
+    "Nether Wart",
+    "Sugar Cane"
+  ],
+  "1667232900000": [
+    "Cocoa Beans",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667236500000": [
+    "Carrot",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667240100000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Wheat"
+  ],
+  "1667243700000": [
+    "Mushroom",
+    "Nether Wart",
+    "Sugar Cane"
+  ],
+  "1667247300000": [
+    "Melon",
+    "Potato",
+    "Pumpkin"
+  ],
+  "1667250900000": [
+    "Melon",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667254500000": [
+    "Cocoa Beans",
+    "Nether Wart",
+    "Potato"
+  ],
+  "1667258100000": [
+    "Cactus",
+    "Mushroom",
+    "Wheat"
+  ],
+  "1667261700000": [
+    "Cactus",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667189700000": [
+    "Melon",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667193300000": [
+    "Cocoa Beans",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667196900000": [
+    "Cactus",
+    "Mushroom",
+    "Nether Wart"
+  ],
+  "1667200500000": [
+    "Melon",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667204100000": [
+    "Cocoa Beans",
+    "Potato",
+    "Wheat"
+  ],
+  "1667207700000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Wheat"
+  ],
+  "1667211300000": [
+    "Melon",
+    "Nether Wart",
+    "Potato"
+  ],
+  "1667214900000": [
+    "Cactus",
+    "Mushroom",
+    "Pumpkin"
+  ],
+  "1667218500000": [
+    "Cactus",
+    "Nether Wart",
+    "Pumpkin"
+  ],
+  "1667222100000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Mushroom"
+  ],
+  "1666966500000": [
+    "Mushroom",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1666970100000": [
+    "Cactus",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1666973700000": [
+    "Carrot",
+    "Melon",
+    "Potato"
+  ],
+  "1666977300000": [
+    "Cocoa Beans",
+    "Nether Wart",
+    "Sugar Cane"
+  ],
+  "1666980900000": [
+    "Cactus",
+    "Carrot",
+    "Potato"
+  ],
+  "1666984500000": [
+    "Mushroom",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1666988100000": [
+    "Cocoa Beans",
+    "Melon",
+    "Nether Wart"
+  ],
+  "1666991700000": [
+    "Cocoa Beans",
+    "Melon",
+    "Sugar Cane"
+  ],
+  "1666995300000": [
+    "Cactus",
+    "Potato",
+    "Pumpkin"
+  ],
+  "1666998900000": [
+    "Carrot",
+    "Mushroom",
+    "Wheat"
+  ],
+  "1667078100000": [
+    "Cocoa Beans",
+    "Potato",
+    "Sugar Cane"
+  ],
+  "1667081700000": [
+    "Carrot",
+    "Melon",
+    "Mushroom"
+  ],
+  "1667085300000": [
+    "Cactus",
+    "Nether Wart",
+    "Pumpkin"
+  ],
+  "1667088900000": [
+    "Carrot",
+    "Mushroom",
+    "Nether Wart"
+  ],
+  "1667092500000": [
+    "Cactus",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667096100000": [
+    "Cocoa Beans",
+    "Potato",
+    "Sugar Cane"
+  ],
+  "1667099700000": [
+    "Carrot",
+    "Mushroom",
+    "Nether Wart"
+  ],
+  "1667103300000": [
+    "Cactus",
+    "Potato",
+    "Pumpkin"
+  ],
+  "1667106900000": [
+    "Melon",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667110500000": [
+    "Nether Wart",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667301300000": [
+    "Cactus",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667304900000": [
+    "Melon",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667308500000": [
+    "Cactus",
+    "Carrot",
+    "Nether Wart"
+  ],
+  "1667312100000": [
+    "Cocoa Beans",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667315700000": [
+    "Cactus",
+    "Mushroom",
+    "Nether Wart"
+  ],
+  "1667319300000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Melon"
+  ],
+  "1667322900000": [
+    "Pumpkin",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667326500000": [
+    "Cactus",
+    "Nether Wart",
+    "Potato"
+  ],
+  "1667330100000": [
+    "Cocoa Beans",
+    "Melon",
+    "Mushroom"
+  ],
+  "1667333700000": [
+    "Carrot",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667265300000": [
+    "Melon",
+    "Nether Wart",
+    "Sugar Cane"
+  ],
+  "1667268900000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Potato"
+  ],
+  "1667272500000": [
+    "Cactus",
+    "Carrot",
+    "Nether Wart"
+  ],
+  "1667276100000": [
+    "Cocoa Beans",
+    "Melon",
+    "Mushroom"
+  ],
+  "1667279700000": [
+    "Potato",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667283300000": [
+    "Cactus",
+    "Melon",
+    "Mushroom"
+  ],
+  "1667286900000": [
+    "Cocoa Beans",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667290500000": [
+    "Carrot",
+    "Potato",
+    "Pumpkin"
+  ],
+  "1667294100000": [
+    "Carrot",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667297700000": [
+    "Cocoa Beans",
+    "Nether Wart",
+    "Sugar Cane"
+  ],
+  "1667042100000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Potato"
+  ],
+  "1667045700000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Pumpkin"
+  ],
+  "1667049300000": [
+    "Potato",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667052900000": [
+    "Cactus",
+    "Mushroom",
+    "Nether Wart"
+  ],
+  "1667056500000": [
+    "Cactus",
+    "Melon",
+    "Sugar Cane"
+  ],
+  "1667060100000": [
+    "Carrot",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667063700000": [
+    "Nether Wart",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667067300000": [
+    "Cocoa Beans",
+    "Melon",
+    "Pumpkin"
+  ],
+  "1667070900000": [
+    "Cactus",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667074500000": [
+    "Carrot",
+    "Nether Wart",
+    "Potato"
+  ],
+  "1667153700000": [
+    "Melon",
+    "Nether Wart",
+    "Sugar Cane"
+  ],
+  "1667157300000": [
+    "Cactus",
+    "Potato",
+    "Pumpkin"
+  ],
+  "1667160900000": [
+    "Carrot",
+    "Mushroom",
+    "Wheat"
+  ],
+  "1667164500000": [
+    "Melon",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667168100000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Potato"
+  ],
+  "1667171700000": [
+    "Cactus",
+    "Nether Wart",
+    "Wheat"
+  ],
+  "1667175300000": [
+    "Cactus",
+    "Mushroom",
+    "Sugar Cane"
+  ],
+  "1667178900000": [
+    "Carrot",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667182500000": [
+    "Cocoa Beans",
+    "Melon",
+    "Potato"
+  ],
+  "1667186100000": [
+    "Cactus",
+    "Carrot",
+    "Nether Wart"
+  ],
+  "1667376900000": [
+    "Carrot",
+    "Melon",
+    "Nether Wart"
+  ],
+  "1667380500000": [
+    "Melon",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667384100000": [
+    "Carrot",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667387700000": [
+    "Cactus",
+    "Cocoa Beans",
+    "Sugar Cane"
+  ],
+  "1667391300000": [
+    "Cocoa Beans",
+    "Melon",
+    "Wheat"
+  ],
+  "1667394900000": [
+    "Cactus",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667398500000": [
+    "Mushroom",
+    "Nether Wart",
+    "Potato"
+  ],
+  "1667402100000": [
+    "Cactus",
+    "Melon",
+    "Wheat"
+  ],
+  "1667405700000": [
+    "Carrot",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667409300000": [
+    "Cocoa Beans",
+    "Nether Wart",
+    "Pumpkin"
+  ],
+  "1667002500000": [
+    "Cactus",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667006100000": [
+    "Cocoa Beans",
+    "Melon",
+    "Pumpkin"
+  ],
+  "1667009700000": [
+    "Carrot",
+    "Mushroom",
+    "Nether Wart"
+  ],
+  "1667013300000": [
+    "Cactus",
+    "Cocoa Beans",
+    "Pumpkin"
+  ],
+  "1667016900000": [
+    "Carrot",
+    "Melon",
+    "Wheat"
+  ],
+  "1667020500000": [
+    "Mushroom",
+    "Nether Wart",
+    "Potato"
+  ],
+  "1667024100000": [
+    "Cocoa Beans",
+    "Nether Wart",
+    "Wheat"
+  ],
+  "1667027700000": [
+    "Cactus",
+    "Potato",
+    "Sugar Cane"
+  ],
+  "1667031300000": [
+    "Carrot",
+    "Melon",
+    "Pumpkin"
+  ],
+  "1667034900000": [
+    "Mushroom",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667038500000": [
+    "Cactus",
+    "Melon",
+    "Nether Wart"
+  ],
+  "1667114100000": [
+    "Cactus",
+    "Melon",
+    "Mushroom"
+  ],
+  "1667117700000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Potato"
+  ],
+  "1667121300000": [
+    "Cocoa Beans",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667124900000": [
+    "Melon",
+    "Mushroom",
+    "Sugar Cane"
+  ],
+  "1667128500000": [
+    "Cactus",
+    "Carrot",
+    "Nether Wart"
+  ],
+  "1667132100000": [
+    "Carrot",
+    "Cocoa Beans",
+    "Pumpkin"
+  ],
+  "1667135700000": [
+    "Nether Wart",
+    "Sugar Cane",
+    "Wheat"
+  ],
+  "1667139300000": [
+    "Melon",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667142900000": [
+    "Melon",
+    "Mushroom",
+    "Wheat"
+  ],
+  "1667146500000": [
+    "Cocoa Beans",
+    "Nether Wart",
+    "Pumpkin"
+  ],
+  "1667150100000": [
+    "Cactus",
+    "Potato",
+    "Sugar Cane"
+  ],
+  "1667337300000": [
+    "Carrot",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667340900000": [
+    "Melon",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667344500000": [
+    "Cocoa Beans",
+    "Nether Wart",
+    "Wheat"
+  ],
+  "1667348100000": [
+    "Cactus",
+    "Carrot",
+    "Wheat"
+  ],
+  "1667351700000": [
+    "Nether Wart",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667355300000": [
+    "Melon",
+    "Mushroom",
+    "Potato"
+  ],
+  "1667358900000": [
+    "Cocoa Beans",
+    "Melon",
+    "Nether Wart"
+  ],
+  "1667362500000": [
+    "Carrot",
+    "Potato",
+    "Wheat"
+  ],
+  "1667366100000": [
+    "Cactus",
+    "Pumpkin",
+    "Sugar Cane"
+  ],
+  "1667369700000": [
+    "Mushroom",
+    "Pumpkin",
+    "Wheat"
+  ],
+  "1667373300000": [
+    "Cactus",
+    "Cocoa Beans",
+    "Sugar Cane"
+  ]
+}
